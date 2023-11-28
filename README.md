@@ -1,2 +1,9 @@
 # vaz_lib
-A rust library
+
+A library of tools useful for reading input
+
+## Support/Suggestion
+
+If you have questions/issues/suggestions please join the [vaz_lib Discord Server](https://discord.gg/zqtEzdHt) and open a ticket.
+
+License: MIT OR Apache-2.0
