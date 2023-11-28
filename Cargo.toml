@@ -5,6 +5,7 @@ authors = ["vazpera"]
 edition = "2021"
 description = "vaz_lib is a small library made for those who just don't want to fuddle with complex stuff."
 license = "MIT OR Apache-2.0"
+repository = "https://github.com/Vapzera/vaz_lib"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
