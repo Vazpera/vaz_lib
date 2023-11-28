@@ -1,6 +1,6 @@
 [package]
 name = "vaz_lib"
-version = "0.2.7"
+version = "0.2.8"
 authors = ["vazpera"]
 edition = "2021"
 description = "vaz_lib is a small library made for those who just don't want to fuddle with complex stuff."
