@@ -182,7 +182,7 @@ pub mod terminal {
     ///
     /// * `term` - a reference
     /// * `items` - a vector of items that have the `std::fmt::Display` trait
-    pub fn menu(term: &console::Term, items: Vec<&dyn core::fmt::Display>) -> u32 {
+    pub fn menu(term: &console::Term, &items: Vec<&dyn core::fmt::Display>) -> u32 {
         use console::Key;
         let mut i = 0;
         let mut new_i = 0;
